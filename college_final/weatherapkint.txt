@@ -1,0 +1,8 @@
+Welcome to the Weather App! This application provides real-time weather information based on the OpenWeatherMap API. Stay informed about the current weather conditions, temperature, humidity, and more for any location worldwide.
+The Weather App is a simple Android application that allows users to check the current weather conditions for a specific location. It fetches data from the OpenWeatherMap API, providing accurate and up-to-date information.
+
+Features:
+
+Real-time weather updates
+Temperature, humidity, and other relevant details
+User-friendly interface
